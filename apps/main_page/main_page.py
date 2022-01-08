@@ -1,7 +1,7 @@
 import streamlit as st
 
 def app():
-    st.write('네비게이션을 사용하여 페이지를 이동하세요.')
+    st.write('👆🏻 🔺 ☝ 네비게이션을 사용하여 페이지를 이동하세요.')
     st.title('What We Achieved')
 
     st.markdown("""
