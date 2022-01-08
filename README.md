@@ -6,7 +6,7 @@
 
 #### Web/App: [Link](https://share.streamlit.io/inwookie/ss501_ai_bootcamp_hackathon/main/app.py)
 
-#### Notion: [Link](hhttps://www.notion.so/SS501-5ebfe370c9554f00a12322eeb7078da1)
+#### Notion: [Link](https://hulking-measure-779.notion.site/SS501-5ebfe370c9554f00a12322eeb7078da1)
 
 ![](readme_img/readme_img_00.png)
 ![](readme_img/readme_img_01.png)
