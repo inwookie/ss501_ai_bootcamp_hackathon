@@ -4,7 +4,7 @@
 
 ### 머신 러닝을 통한 중고차 가격 예측, 차종 분류, 차량 파손 검출
 
-#### Web/App: [Link](https://share.streamlit.io/inwookie/ss501_ai_bootcamp_hackathon/main/app.py)
+#### Web/App: [Link](https://bit.ly/3qYNqnb)
 
 #### Notion: [Link](https://hulking-measure-779.notion.site/SS501-5ebfe370c9554f00a12322eeb7078da1)
 
