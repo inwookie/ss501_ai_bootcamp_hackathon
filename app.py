@@ -3,7 +3,7 @@ from multiapp import MultiApp
 from apps.car_classifier import car_classifier, car_classifier_about
 from apps.ocr import ocr_v2, ocr_about
 from apps.main_page import main_page
-from apps.scratch_segmentation import scratch_about
+from apps.scratch_segmentation import scratch_about, scratch
 from apps.dent_detection import dent_about
 from apps.used_car import used_car_prediction, used_car_prediction_about
 from apps.team import about_us
