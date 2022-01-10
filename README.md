@@ -6,7 +6,7 @@
 
 #### Web/App [웹사이트에 Error 발생시 다른 링크를 사용해 주세요]
 - Streamlit Cloud: [Link_1](https://bit.ly/3qYNqnb), [Link_2](https://share.streamlit.io/inwookie/ss501_ai_bootcamp_hackathon/main/app.py)
-- Heroku: 
+- Heroku: [Link](https://ss501.herokuapp.com/)
   - 차종분류 구현 미포함 
   - 중고차 가격 예측 구현 미포함 
 
