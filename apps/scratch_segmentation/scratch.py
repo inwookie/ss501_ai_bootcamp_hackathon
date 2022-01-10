@@ -7,7 +7,7 @@ import segmentation_models_pytorch as smp
 
 
 def app():
-    @st.cache(allow_output_mutation=True)
+    @st.cache(allow_output_mutation=True, ttl=3600)
     def load_model():
         model = torch.load('better_result_light.pth',
                            map_location=torch.device('cpu'))
