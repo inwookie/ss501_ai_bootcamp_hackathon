@@ -5,6 +5,10 @@
 ### 머신 러닝을 통한 중고차 가격 예측, 차종 분류, 차량 파손 검출
 
 #### Web/App: [Link](https://bit.ly/3qYNqnb)
+- Streamlit Cloud: [Link](https://bit.ly/3qYNqnb)
+- Heroku: 
+  - 차종분류 구현 미포함 
+  - 중고차 가격 예측 구현 미포함 
 
 #### Notion: [Link](https://hulking-measure-779.notion.site/SS501-5ebfe370c9554f00a12322eeb7078da1)
 
